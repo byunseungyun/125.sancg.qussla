@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://sancg.qussla.com/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
